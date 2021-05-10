@@ -1,0 +1,7 @@
+.Rproj.*
+*.Rproj
+Projekt-EDA.pdf
+*.RData
+*.Rhistory
+.Rproj.user
+images/*.png
